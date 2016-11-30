@@ -6,3 +6,7 @@ body {
 canvas {
 	display: block;	
 }
+p{
+     text-align:center; 
+    color:#00f5ff;
+}
