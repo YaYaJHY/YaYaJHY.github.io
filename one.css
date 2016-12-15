@@ -2,11 +2,10 @@ body {
 	background: #000;
 	overflow: hidden;
 }
-
+h4{
+	text-align: center;
+	color: 00f5ff;
+}
 canvas {
 	display: block;	
-}
-h4{
-     text-align=“center“; 
-    background:#00f5ff;
 }
