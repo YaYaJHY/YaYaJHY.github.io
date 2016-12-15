@@ -130,8 +130,10 @@ window.addEventListener( 'mousemove', function( e ) {
 
 loop();
 reset();
+
 $(document).ready(function(){
-  $("p").click(function(){
+  $("h4").click(function(){
     $(this).hide();
   });
 });
+
